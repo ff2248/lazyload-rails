@@ -39,7 +39,7 @@ into your `vendor/assets/javascripts` directory and include it however you prefe
 
 And in your JavaScript code do:
 
-    $("img").lazyload();
+    $("img.lazy").lazyload();
 
 Lazy Load can be customized, [see more options](http://www.appelsiini.net/projects/lazyload)
 
